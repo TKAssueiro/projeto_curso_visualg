@@ -1,0 +1,16 @@
+Algoritmo "Meu primeiro algoritmo"
+// 
+//  
+// Descrição   : Aprendizado
+// Autor(a)    : Thiago Assueiro
+// Data atual  : 9/9/2021
+Var
+// Seção de Declarações das variáveis 
+   nota:inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   nota <- 100
+   escreva("Resultado:", nota)
+
+Fimalgoritmo
